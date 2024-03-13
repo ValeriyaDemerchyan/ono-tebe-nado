@@ -7,12 +7,11 @@
 
 .header__links-list {
     display: flex;
-    column-gap: 30px;
-    padding: 44px 30px 39px 32px;
+    column-gap: 34px;
+    padding: 48px 23px 39px 50px;
     font-size: 18px;
     font-weight: 400;
     line-height: calc(21 / 18 * 100%);
-    letter-spacing: 1px;
 }
 
 .header__links-item {
@@ -23,7 +22,7 @@
     list-style: none;
 }
 .header__logo {
-    margin-right: 67px;
+    margin-right: 60px;
 }
 
 .header__logo-image {
@@ -287,7 +286,7 @@
     justify-content: space-between;
     align-items: flex-start;
     width: 100%;
-    margin: 183px 50px 20px 50px;
+    margin: 183px 50px 88px 50px;
     padding-right: 100px;
 }
 
@@ -303,6 +302,7 @@
 
 .footer__menu-list-item {
     list-style: none;
+    font-size: 18px;
 }
 
 .footer__social-list {
